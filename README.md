@@ -1,3 +1,26 @@
+## robot_self_filter (indigo) - 0.1.30-0
+
+The packages in the `robot_self_filter` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --rosdistro indigo --track indigo robot_self_filter` on `Fri, 20 Jan 2017 00:46:06 -0000`
+
+The `robot_self_filter` package was released.
+
+Version of package(s) in repository `robot_self_filter`:
+
+- upstream repository: https://github.com/pr2/robot_self_filter.git
+- release repository: https://github.com/pr2-gbp/robot_self_filter-gbp.git
+- rosdistro version: `0.1.29-0`
+- old version: `0.1.29-1`
+- new version: `0.1.30-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.23`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.5.0`
+- vcstools version: `0.1.39`
+
+
 ## robot_self_filter (jade) - 0.1.29-0
 
 The packages in the `robot_self_filter` repository were released into the `jade` distro by running `/usr/local/bin/bloom-release robot_self_filter --track jade --rosdistro jade` on `Thu, 17 Dec 2015 07:05:31 -0000`
