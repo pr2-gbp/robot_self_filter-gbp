@@ -1,3 +1,26 @@
+## robot_self_filter (lunar) - 0.1.31-0
+
+The packages in the `robot_self_filter` repository were released into the `lunar` distro by running `/usr/bin/bloom-release -y robot_self_filter --track lunar --rosdistro lunar` on `Sat, 24 Nov 2018 00:51:06 -0000`
+
+The `robot_self_filter` package was released.
+
+Version of package(s) in repository `robot_self_filter`:
+
+- upstream repository: https://github.com/pr2/robot_self_filter.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.31-0`
+
+Versions of tools used:
+
+- bloom version: `0.6.6`
+- catkin_pkg version: `0.4.8`
+- rosdep version: `0.12.2`
+- rosdistro version: `0.6.9`
+- vcstools version: `0.1.40`
+
+
 ## robot_self_filter (kinetic) - 0.1.30-1
 
 The packages in the `robot_self_filter` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release robot_self_filter -t kinetic -r kinetic` on `Fri, 20 Jan 2017 02:18:37 -0000`
