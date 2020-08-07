@@ -1,0 +1,12 @@
+Source: ros-noetic-robot-self-filter
+Section: misc
+Priority: optional
+Maintainer: Devon Ash <dash@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), libassimp-dev, libbullet-dev, libtinyxml-dev, ros-noetic-catkin, ros-noetic-cmake-modules, ros-noetic-filters, ros-noetic-pcl-ros, ros-noetic-resource-retriever, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf, ros-noetic-urdf, ros-noetic-visualization-msgs
+Homepage: http://ros.org/wiki/robot_self_filter
+Standards-Version: 3.9.2
+
+Package: ros-noetic-robot-self-filter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, libassimp-dev, libbullet-dev, libtinyxml-dev, ros-noetic-filters, ros-noetic-pcl-ros, ros-noetic-resource-retriever, ros-noetic-roscpp, ros-noetic-sensor-msgs, ros-noetic-tf, ros-noetic-urdf, ros-noetic-visualization-msgs
+Description: Filters the robot's body out of point clouds.
