@@ -1,3 +1,26 @@
+## robot_self_filter (noetic) - 0.1.32-1
+
+The packages in the `robot_self_filter` repository were released into the `noetic` distro by running `/usr/bin/bloom-release robot_self_filter --track noetic --rosdistro noetic` on `Fri, 07 Aug 2020 09:50:57 -0000`
+
+The `robot_self_filter` package was released.
+
+Version of package(s) in repository `robot_self_filter`:
+
+- upstream repository: https://github.com/pr2/robot_self_filter.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.1.32-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.3`
+- catkin_pkg version: `0.4.16`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.0`
+- vcstools version: `0.1.42`
+
+
 ## robot_self_filter (melodic) - 0.1.31-0
 
 The packages in the `robot_self_filter` repository were released into the `melodic` distro by running `/usr/bin/bloom-release -y robot_self_filter --track melodic --rosdistro melodic` on `Sat, 24 Nov 2018 00:56:38 -0000`
